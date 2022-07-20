@@ -1,5 +1,7 @@
+                                                Coding Interview Questions     
 # caesar-cipher-encryptor
 
+Difficulty: easy
 
   Given a non-empty string of lowercase letters and a non-negative integer
   representing a key, write a function that returns a new string obtained by
